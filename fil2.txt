@@ -1,3 +1,4 @@
 initial fil2 text i master branch
 changed to fil 2
 nu ska jag prova
+detta är gjort på feature branch
